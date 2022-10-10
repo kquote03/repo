@@ -1,3 +1,3 @@
 ## SailfishOS-vayu
 
-[Directory Listing](https://sailfishos-vayu.github.io/repo/)
+[Directory Listing](https://kquote04.github.io/repo/)
